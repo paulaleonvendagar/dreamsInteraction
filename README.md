@@ -1,0 +1,2 @@
+# dreamsInteraction
+Its a narrative exploration to create an archive of dreams. Both mine and from the users. I've been writing my dreams for over 20 years in hand written notebooks so now I decide to digitalize them, and create a program to archive them. I am exploring this both froma personal and a collective perspective. So in this plattform I share some of my dreams through animations, pictures, sound and written. There are also dreams from the people that has interact with the project.  
